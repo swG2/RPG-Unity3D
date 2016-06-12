@@ -3,12 +3,12 @@
 ###Site: www.quadrantestudio.com
 ####Publisher Unity3D: https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=relevance/query=publisher:8691
 
-**Project Game RPG**
+#####**Project Game RPG**
 
-**Environments**
-*Publisher      -      Email       -       Asset      -      URL*
-[Sandro Tatinashvili - upriani+assetstore@gmail.com] - (Arctic Castle - https://www.assetstore.unity3d.com/en/#!/content/32972)
-SilverTM - alex044se@gmail.com - Fantasy Dungeon - https://www.assetstore.unity3d.com/en/#!/content/46916
+######**Environments**
+######*Publisher      -      Email       -       Asset      -      URL*
+######[*Sandro Tatinashvili* - upriani+assetstore@gmail.com] - (*Arctic Castle* - https://www.assetstore.unity3d.com/en/#!/content/32972)
+######[SilverTM - alex044se@gmail.com] - (Fantasy Dungeon - https://www.assetstore.unity3d.com/en/#!/content/46916)
 Mana Station - mana4free@gmail.com - Multistory Dungeons - https://www.assetstore.unity3d.com/en/#!/content/33955
 Yunus Emre Yaman - gfxdesign@windowslive.com - Top-Down Royal - https://www.assetstore.unity3d.com/en/#!/content/60613
 Inspond Co.,Ltd. - cs@inspond.com - Simple Modular Dungeon Complete - https://www.assetstore.unity3d.com/en/#!/content/13689
