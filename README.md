@@ -5,16 +5,25 @@
 
 #####**Project Game RPG**
 
+######*Publisher - Email*
+######*Asset - URL*
+
 ######**Environments**
-######*Publisher      -      Email       -       Asset      -      URL*
-*Sandro Tatinashvili* - upriani+assetstore@gmail.com - *Arctic Castle* - https://www.assetstore.unity3d.com/en/#!/content/32972<br />
-SilverTM - alex044se@gmail.com - Fantasy Dungeon - https://www.assetstore.unity3d.com/en/#!/content/46916<br />
-Mana Station - mana4free@gmail.com - Multistory Dungeons - https://www.assetstore.unity3d.com/en/#!/content/33955<br />
-Yunus Emre Yaman - gfxdesign@windowslive.com - Top-Down Royal - https://www.assetstore.unity3d.com/en/#!/content/60613<br />
-Inspond Co.,Ltd. - cs@inspond.com - Simple Modular Dungeon Complete - https://www.assetstore.unity3d.com/en/#!/content/13689<br />
+
+**Sandro Tatinashvili** - upriani+assetstore@gmail.com<br />
+*Arctic Castle* - https://www.assetstore.unity3d.com/en/#!/content/32972<br />
+**SilverTM** - alex044se@gmail.com<br />
+*Fantasy Dungeon* - https://www.assetstore.unity3d.com/en/#!/content/46916<br />
+**Mana Station** - mana4free@gmail.com<br />
+*Multistory Dungeons* - https://www.assetstore.unity3d.com/en/#!/content/33955<br />
+**Yunus Emre Yaman** - gfxdesign@windowslive.com<br />
+*Top-Down Royal* - https://www.assetstore.unity3d.com/en/#!/content/60613<br />
+**Inspond Co.,Ltd.** - cs@inspond.com<br />
+*Simple Modular Dungeon Complete* - https://www.assetstore.unity3d.com/en/#!/content/13689<br />
 <br />
-Characters<br />
-Publisher      -      Email       -       Asset      -      URL<br />
+
+######**Characters**
+
 Maksim Bugrimov - 3d.artist@mail.ru - Characters RPG (Pack) - https://www.assetstore.unity3d.com/en/#!/content/47749<br />
 Morph 3D - cspencer@morph3d.com - MCS Male - https://www.assetstore.unity3d.com/en/#!/content/45805<br />
 Morph 3D - cspencer@morph3d.com - Undead Fiend - https://www.morph3d.com/morph-3d-undead-fiend<br />
@@ -31,16 +40,22 @@ Amarok3D - amarok.pelo@gmail.com - Dwarf Warrior 2.0 - https://www.assetstore.un
 PolyNext - polynext.3d@gmail.com - Goblin - https://www.assetstore.unity3d.com/en/#!/content/12131<br />
 IronicGame - contact@ironicgame.com - RPG - Skeleton - https://www.assetstore.unity3d.com/en/#!/content/35463<br />
 <br />
-Props<br />
+
+######**Props**
+
 BITGEM - support@bitgem3d.com - Treasure Chest - Epic - https://www.assetstore.unity3d.com/en/#!/content/3930<br />
 SilverTM - alex044se@gmail.com - Medieval Props Pack - https://www.assetstore.unity3d.com/en/#!/content/44911<br />
 SilverTM - alex044se@gmail.com - Medieval Props Pack 2 - https://www.assetstore.unity3d.com/en/#!/content/55249<br />
 <br />
-Animations<br />
+
+######**Animations**
+
 Mixamo - support@mixamo.com - Magic Pack - https://www.assetstore.unity3d.com/en/#!/content/36269<br />
 Mixamo - support@mixamo.com - Melee Axe Pack - https://www.assetstore.unity3d.com/en/#!/content/35320<br />
 <br />
-Sounds / Musics<br />
+
+######**Sounds / Musics**
+
 Epic Sounds and FX - andrew@epicstockmedia.com - EPIC ARSENAL - Essential Elements - MP3 -<br /> https://www.assetstore.unity3d.com/en/#!/content/37022<br />
 Dr.Game - j1981700608@hotmail.com - RPG Theme-Battle - https://www.assetstore.unity3d.com/en/#!/content/62189<br />
 Dr.Game - j1981700608@hotmail.com - RPG Theme-Festival - https://www.assetstore.unity3d.com/en/#!/content/58786<br />
@@ -57,28 +72,42 @@ Ibuproaudio - rmunoz@thelastofsounds.com - Fantasy & Merchants Audio Music Pack 
 Ibuproaudio - rmunoz@thelastofsounds.com - Fantasy Loot Audio Pack - https://www.assetstore.unity3d.com/en/#!/content/54714<br />
 Ibuproaudio - rmunoz@thelastofsounds.com - Personal & Classical Music Covers Vol.I - https://www.assetstore.unity3d.com/en/#!/content/56421<br />
 <br />
-Effects<br />
+
+######**Effects**
+
 Dr.Game - j1981700608@hotmail.com - Water Elemental FX - https://www.assetstore.unity3d.com/en/#!/content/33887<br />
 Digital Ruby (Jeff Johnson) - jjxtra@gmail.com - Weather Maker - 2D & 3D Weather System for Unity - https://www.assetstore.unity3d.com/en/#!/content/60955<br />
 <br />
-AI<br />
+
+######**AI**
+
 Mike Desjardins - mike.desjardins@outlook.com - Breadcrumb Ai - https://www.assetstore.unity3d.com/en/#!/content/18364<br />
 Black Horizon Studios - Support@BlackHorizonStudios.com - Emerald AI - https://www.assetstore.unity3d.com/en/#!/content/40199<br />
 <br />
-Sky<br />
+
+######**Sky**
+
 Hedgehog Team - the.hedgehog.team@gmail.com - Skybox Volume 2 (Nebula) - https://www.assetstore.unity3d.com/en/#!/content/3392<br />
 ARTnGame (Nasos T.) - artengames@yahoo.com - Sky Master ULTIMATE - https://www.assetstore.unity3d.com/en/#!/content/25357<br />
 <br />
-GUI<br />
+
+######**GUI**
+
 Sander Buchheim - buchheim.sander@yahoo.de - Inventory Master - uGUI - https://www.assetstore.unity3d.com/en/#!/content/26310<br />
 Brackeys - at@brackeys.com - Inventory System - https://www.assetstore.unity3d.com/en/#!/content/10384<br />
 <br />
-Network<br />
+
+######**Network**
+
 Exit Games - developer@photonengine.com - Photon Unity Networking Free - https://www.assetstore.unity3d.com/en/#!/content/1786<br />
 <br />
-Shader<br />
+
+######**Shader**
+
 Davit Naskidashvili - vacuumshaders@gmail.com - Curved World - https://www.assetstore.unity3d.com/en/#!/content/26165<br />
 <br />
-Textures<br />
+
+######**Textures**
+
 Quadrante Studio - support@quadrantestudio.com - QS Skill Icon Pack - https://www.assetstore.unity3d.com/en/#!/content/62175<br />
 Quadrante Studio - support@quadrantestudio.com - QS Fantasy RPG Pack - vol.1 - https://www.assetstore.unity3d.com/en/#!/content/59045<br />
