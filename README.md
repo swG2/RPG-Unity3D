@@ -24,21 +24,32 @@
 
 ######**Characters**
 
-Maksim Bugrimov - 3d.artist@mail.ru - Characters RPG (Pack) - https://www.assetstore.unity3d.com/en/#!/content/47749<br />
-Morph 3D - cspencer@morph3d.com - MCS Male - https://www.assetstore.unity3d.com/en/#!/content/45805<br />
-Morph 3D - cspencer@morph3d.com - Undead Fiend - https://www.morph3d.com/morph-3d-undead-fiend<br />
-Kornica3D - kornica3d@gmail.com - Fantasy Skeletons with Weapons - https://www.assetstore.unity3d.com/en/#!/content/62579<br /><br />
-MN ARTS LLC - matt@matthewnewman.net - Ice Elemental Epic Creature - https://www.assetstore.unity3d.com/en/#!/content/61419<br />
-MN ARTS LLC - matt@matthewnewman.net - Ice Elemental Minions - https://www.assetstore.unity3d.com/en/#!/content/61876<br />
-Unluck Software - support@chemicalbliss.com - Roaming Bats - https://www.assetstore.unity3d.com/en/#!/content/2899<br />
-BüMSTRüM - bumstrumunity@gmail.com - Monster 3 - https://www.assetstore.unity3d.com/en/#!/content/48933<br />
-BüMSTRüM - bumstrumunity@gmail.com - Overlord - https://www.assetstore.unity3d.com/en/#!/content/48768<br /><br /><br />
-BüMSTRüM - bumstrumunity@gmail.com - Amanda Frost - https://www.assetstore.unity3d.com/en/#!/content/34583<br /><br />
-FlyingTeapot - http://unity3d.flyingteapot.net/ - FT_CaveWorm - https://www.assetstore.unity3d.com/en/#!/content/3317<br />
-Polygon Blacksmith - polygonblacksmith@gmail.com - Dungeon Skeletons - https://www.assetstore.unity3d.com/en/#!/content/50675<br />
-Amarok3D - amarok.pelo@gmail.com - Dwarf Warrior 2.0 - https://www.assetstore.unity3d.com/en/#!/content/35294<br />
-PolyNext - polynext.3d@gmail.com - Goblin - https://www.assetstore.unity3d.com/en/#!/content/12131<br />
-IronicGame - contact@ironicgame.com - RPG - Skeleton - https://www.assetstore.unity3d.com/en/#!/content/35463<br />
+**Maksim Bugrimov** - 3d.artist@mail.ru<br />
+*Characters RPG (Pack)* - https://www.assetstore.unity3d.com/en/#!/content/47749<br />
+**Morph 3D** - cspencer@morph3d.com<br />
+*MCS Male* - https://www.assetstore.unity3d.com/en/#!/content/45805<br />
+*Undead Fiend* - https://www.morph3d.com/morph-3d-undead-fiend<br />
+**Kornica3D** - kornica3d@gmail.com<br />
+*Fantasy Skeletons with Weapons* - https://www.assetstore.unity3d.com/en/#!/content/62579<br /><br />
+**MN ARTS LLC** - matt@matthewnewman.net<br />
+*Ice Elemental Epic Creature* - https://www.assetstore.unity3d.com/en/#!/content/61419<br />
+*Ice Elemental Minions* - https://www.assetstore.unity3d.com/en/#!/content/61876<br />
+**Unluck Software** - support@chemicalbliss.com<br />
+*Roaming Bats* - https://www.assetstore.unity3d.com/en/#!/content/2899<br />
+**BüMSTRüM** - bumstrumunity@gmail.com<br />
+*Monster 3* - https://www.assetstore.unity3d.com/en/#!/content/48933<br />
+*Overlord* - https://www.assetstore.unity3d.com/en/#!/content/48768<br /><br /><br />
+*Amanda Frost* - https://www.assetstore.unity3d.com/en/#!/content/34583<br /><br />
+**FlyingTeapot** - http://unity3d.flyingteapot.net/<br />
+*FT_CaveWorm* - https://www.assetstore.unity3d.com/en/#!/content/3317<br />
+**Polygon Blacksmith** - polygonblacksmith@gmail.com<br />
+*Dungeon Skeletons* - https://www.assetstore.unity3d.com/en/#!/content/50675<br />
+**Amarok3D** - amarok.pelo@gmail.com<br />
+*Dwarf Warrior 2.0* - https://www.assetstore.unity3d.com/en/#!/content/35294<br />
+**PolyNext** - polynext.3d@gmail.com<br />
+*Goblin* - https://www.assetstore.unity3d.com/en/#!/content/12131<br />
+**IronicGame** - contact@ironicgame.com<br />
+*RPG - Skeleton* - https://www.assetstore.unity3d.com/en/#!/content/35463<br />
 <br />
 
 ######**Props**
